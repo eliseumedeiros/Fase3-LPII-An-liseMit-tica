@@ -1,4 +1,4 @@
-# Fase3-LPII-An-liseMit-tica
+# Análise Mitótica
 
 Projeto criado para a conclusão da disciplina de Linguagem de Programação II do Curso de Bacharelado em Tecnologia da Informação - UFRN
 
